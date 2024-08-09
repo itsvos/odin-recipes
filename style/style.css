@@ -1,15 +1,17 @@
 .main{
     font-family: Tahoma, sans-serif;
     background-color: #abc7e4;
-    text-align: center;
 }
 
 .main.title{
+    text-align: center;
     font-family: Verdana, sans-serif;
 }
 
 .options{
     list-style: square;
+    padding-left: 45%; 
+    text-align: justify;
 }
 
 .doggo{ /* used for images, named in honor of my doggo on index */
