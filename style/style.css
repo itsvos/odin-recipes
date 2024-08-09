@@ -1,0 +1,21 @@
+.main{
+    font-family: Tahoma, sans-serif;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+.main.title{
+    font-family: Verdana, sans-serif;
+}
+
+.options{
+    list-style: square;
+}
+
+.doggo{
+    display: block;
+    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
