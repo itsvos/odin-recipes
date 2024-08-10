@@ -6,12 +6,26 @@
 .main.title{
     text-align: center;
     font-family: Verdana, sans-serif;
+    width: auto;
+    margin: 0 auto;
 }
 
-.options{
+/*.options{
     list-style: square;
     padding-left: 45%; 
     text-align: justify;
+}*/
+
+.options{
+    display: flex;
+    list-style: square;
+    width: auto;
+    margin: 0 auto;
+}
+
+.pickme{
+    width: 349px;
+    margin: 0 auto;
 }
 
 .doggo{ /* used for images, named in honor of my doggo on index */
